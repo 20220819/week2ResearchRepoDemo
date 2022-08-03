@@ -1,9 +1,9 @@
-# week2ResearchRepoDemo
+# Kai's Research Depo
 
-<!-- how to comment in markdown -->
-unsecret
+This is a space for me to store my notes and other various things!
 
-## What is Scratch? 
-scratch is a visual programming language developed a MIT We used it for an intro to programming.
+## Tech Support
 
-find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
+## Software Dev
+
+find my reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
